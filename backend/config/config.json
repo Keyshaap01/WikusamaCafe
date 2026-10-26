@@ -1,3 +1,4 @@
+
 {
   "development": {
     "username": "root",
@@ -14,10 +15,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "wikusama_app",
     "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "database": "wikusama_cafe",
+    "host": "db",
+    "port": 3306,
     "dialect": "mysql"
   }
 }
